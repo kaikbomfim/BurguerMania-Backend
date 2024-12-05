@@ -32,13 +32,13 @@ Para rodar o **BurguerMania API** localmente, siga os passos abaixo:
     git clone https://github.com/kaikbomfim/BurguerMania-backend.git
     ```
 
-2. Acesse o diretório do projeto:
+### 2. Acesse o diretório do projeto:
 
-   ```bash
-   cd ./BurguerMania-backend
-   ```
+```bash
+cd ./BurguerMania-backend
+```
 
-3. Configure variáveis de ambiente:
+### 3. Configure variáveis de ambiente:
 
 Crie um arquivo .env na raiz do projeto com base no arquivo .env.example:
 
@@ -56,23 +56,29 @@ Crie um arquivo .env na raiz do projeto com base no arquivo .env.example:
     DB_PASSWORD=
     ```
 
-4. Instale as dependências do projeto:
+### 4. Instale as dependências do projeto:
 
-   ```bash
-   dotnet restore
-   ```
+```bash
+dotnet restore
+```
 
-5. Atualize o banco de dados:
+### 5. Atualize o banco de dados:
 
-   ```bash
-   dotnet ef database update
-   ```
+```bash
+dotnet ef database update
+```
 
-6. Inicie o servidor local:
+### 6. Inicie o servidor local:
 
-   ```bash
-   dotnet run
-   ```
+```bash
+dotnet run
+```
+
+### 7. Acesse a API
+
+Após iniciar o servidor, a API estará disponível em: http://localhost:5190.
+
+Você pode acessar o Swagger para testar os endpoints da API usando: http://localhost:5190/swagger.
 
 ## Comandos Úteis
 
@@ -88,12 +94,6 @@ Crie um arquivo .env na raiz do projeto com base no arquivo .env.example:
   ```bash
   dotnet run
   ```
-
-1. Acesse a API
-
-Após iniciar o servidor, a API estará disponível em: http://localhost:5190.
-
-Você pode acessar o Swagger para testar os endpoints da API usando: http://localhost:5190/swagger.
 
 ## Tecnologias Utilizadas
 
