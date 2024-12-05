@@ -1,1 +1,1 @@
-{"ContentRoots":["/home/cimatec/Área de trabalho/RESTIC36/burguermania-backend/burguermania-backend/wwwroot/"],"Root":{"Children":{"images":{"Children":{"burguer.png":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"images/burguer.png"},"Patterns":null}},"Asset":null,"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
+{"ContentRoots":["/home/cimatec/Área de trabalho/RESTIC36/burguermania-backend/burguermania-backend/wwwroot/"],"Root":{"Children":null,"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}

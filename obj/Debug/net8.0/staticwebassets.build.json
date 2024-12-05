@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5H3Tue1OUYzDI7dNTTANKDk7by5j9vnB0wSaUnv9ht8=",
+  "Hash": "icabiVWGUBOguPL95P+eMGvKE9qrwfUtSKjNtXdxXqo=",
   "Source": "burguermania-backend",
   "BasePath": "_content/burguermania-backend",
   "Mode": "Default",
@@ -15,25 +15,5 @@
       "Pattern": "**"
     }
   ],
-  "Assets": [
-    {
-      "Identity": "/home/cimatec/Área de trabalho/RESTIC36/burguermania-backend/burguermania-backend/wwwroot/images/burguer.png",
-      "SourceId": "burguermania-backend",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/cimatec/Área de trabalho/RESTIC36/burguermania-backend/burguermania-backend/wwwroot/",
-      "BasePath": "_content/burguermania-backend",
-      "RelativePath": "images/burguer.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/burguer.png"
-    }
-  ]
+  "Assets": []
 }

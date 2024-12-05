@@ -140,3 +140,4 @@
 /home/cimatec/Área de trabalho/RESTIC36/burguermania-backend/burguermania-backend/bin/Debug/net8.0/burguermania-backend.staticwebassets.runtime.json
 /home/cimatec/Área de trabalho/RESTIC36/burguermania-backend/burguermania-backend/bin/Debug/net8.0/DotNetEnv.dll
 /home/cimatec/Área de trabalho/RESTIC36/burguermania-backend/burguermania-backend/bin/Debug/net8.0/Sprache.dll
+/home/cimatec/Área de trabalho/RESTIC36/burguermania-backend/burguermania-backend/obj/Debug/net8.0/burguermania-backend.sourcelink.json

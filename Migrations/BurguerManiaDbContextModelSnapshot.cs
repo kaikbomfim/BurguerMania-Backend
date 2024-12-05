@@ -51,21 +51,21 @@ namespace burguermania_backend.Migrations
                             Id = 1,
                             Description = "Sabor incrível sem abrir mão do veganismo. O hambúrguer perfeito para quem ama comer bem e com consciência!",
                             Name = "X-Vegan",
-                            PathImage = "http://localhost:5190/images/burguer.png"
+                            PathImage = "http://localhost:5190/public/assets/burguer.png"
                         },
                         new
                         {
                             Id = 2,
                             Description = "Leve, saudável e delicioso! O hambúrguer ideal para quem busca equilíbrio e sabor na mesma mordida.",
                             Name = "X-Fitness",
-                            PathImage = "http://localhost:5190/images/burguer.png"
+                            PathImage = "http://localhost:5190/public/assets/burguer.png"
                         },
                         new
                         {
                             Id = 3,
                             Description = "Para os corajosos e amantes de um hambúrguer generoso! Cada mordida é uma explosão de sabor.",
                             Name = "X-Infarto",
-                            PathImage = "http://localhost:5190/images/burguer.png"
+                            PathImage = "http://localhost:5190/public/assets/burguer.png"
                         });
                 });
 
@@ -163,7 +163,7 @@ namespace burguermania_backend.Migrations
                             CategoryId = 1,
                             FullDescription = "Um hambúrguer vegano suculento feito com uma base de grão-de-bico e quinoa, temperado com especiarias defumadas, cebola caramelizada e alho, garantindo uma textura rica e saborosa. Servido em um pão macio, ele vem acompanhado de fatias frescas de tomate, alface crocante, picles, abacate cremoso e uma generosa camada de maionese de ervas vegana. Finalizado com molho barbecue agridoce e uma pitada de pimenta-do-reino moída na hora, proporcionando uma combinação deliciosa de sabores e texturas em cada mordida.",
                             Name = "X-Alface-Premium",
-                            PathImage = "http://localhost:5190/images/burguer.png",
+                            PathImage = "http://localhost:5190/public/assets/burguer.png",
                             Price = 35.0
                         },
                         new
@@ -173,7 +173,7 @@ namespace burguermania_backend.Migrations
                             CategoryId = 1,
                             FullDescription = "Uma explosão de frescor e sabor em cada mordida! O X-Tomate combina um hambúrguer vegetal temperado com ervas aromáticas e alho, servido em pão artesanal macio. É acompanhado por fatias suculentas de tomate maduro em dobro, queijo vegano cremoso e uma camada suave de maionese de ervas. Finalizado com uma leve pitada de sal marinho e pimenta-do-reino, garantindo uma experiência simples e saborosa.",
                             Name = "X-Tomate",
-                            PathImage = "http://localhost:5190/images/burguer.png",
+                            PathImage = "http://localhost:5190/public/assets/burguer.png",
                             Price = 22.5
                         },
                         new
@@ -183,7 +183,7 @@ namespace burguermania_backend.Migrations
                             CategoryId = 1,
                             FullDescription = "Uma combinação surpreendente que mistura sabores doces e salgados! O X-Frutas apresenta um hambúrguer vegetal grelhado e suculento, servido em pão de brioche artesanal. É complementado por abacaxi grelhado caramelizado, alface fresca e tomate maduro, adicionando uma camada extra de sabor. Para finalizar, uma maionese vegana suave e aromática que equilibra perfeitamente os contrastes de sabor.",
                             Name = "X-Frutas",
-                            PathImage = "http://localhost:5190/images/burguer.png",
+                            PathImage = "http://localhost:5190/public/assets/burguer.png",
                             Price = 28.0
                         },
                         new
@@ -193,7 +193,7 @@ namespace burguermania_backend.Migrations
                             CategoryId = 2,
                             FullDescription = "Leve e equilibrado, o X-Frango-Leve é a escolha perfeita para quem busca sabor e saúde. Feito com um hambúrguer de frango grelhado, temperado com ervas frescas, ele é servido em pão integral. É acompanhado de folhas de alface crocantes, tomate suculento e uma camada generosa de creme de ricota, proporcionando uma experiência cremosa e nutritiva.",
                             Name = "X-Frango-Leve",
-                            PathImage = "http://localhost:5190/images/burguer.png",
+                            PathImage = "http://localhost:5190/public/assets/burguer.png",
                             Price = 24.0
                         },
                         new
@@ -203,7 +203,7 @@ namespace burguermania_backend.Migrations
                             CategoryId = 2,
                             FullDescription = "Um hambúrguer refinado e delicioso, o X-Creme-Ricota apresenta um hambúrguer de frango grelhado combinado com creme de ricota extra suave e cremoso. Servido em pão integral macio, ele vem acompanhado de uma seleção de folhas verdes frescas que trazem crocância e frescor. Um toque de azeite extra virgem e pimenta-do-reino completam essa experiência gastronômica leve e sofisticada.",
                             Name = "X-Creme-Ricota",
-                            PathImage = "http://localhost:5190/images/burguer.png",
+                            PathImage = "http://localhost:5190/public/assets/burguer.png",
                             Price = 26.5
                         },
                         new
@@ -213,7 +213,7 @@ namespace burguermania_backend.Migrations
                             CategoryId = 2,
                             FullDescription = "Simplicidade e saúde em um só hambúrguer! O X-Light traz um hambúrguer de frango grelhado com um toque de limão e ervas, servido em pão integral macio. Ele é complementado por alface fresca e tomate maduro, garantindo um sabor leve e equilibrado. Ideal para quem deseja uma refeição prática e saudável.",
                             Name = "X-Light",
-                            PathImage = "http://localhost:5190/images/burguer.png",
+                            PathImage = "http://localhost:5190/public/assets/burguer.png",
                             Price = 20.0
                         },
                         new
@@ -223,7 +223,7 @@ namespace burguermania_backend.Migrations
                             CategoryId = 3,
                             FullDescription = "Uma indulgência irresistível para os amantes de bacon! O X-Duplo-Bacon combina dois hambúrgueres grelhados suculentos com fatias generosas de bacon crocante. Servido em pão brioche macio, ele é finalizado com queijo cheddar derretido e uma maionese especial com um toque de alho. Uma experiência rica e intensa que satisfaz qualquer apetite.",
                             Name = "X-Duplo-Bacon",
-                            PathImage = "http://localhost:5190/images/burguer.png",
+                            PathImage = "http://localhost:5190/public/assets/burguer.png",
                             Price = 32.0
                         },
                         new
@@ -233,7 +233,7 @@ namespace burguermania_backend.Migrations
                             CategoryId = 3,
                             FullDescription = "Cheio de sabor e cremosidade, o X-Cheddar-Melt é feito com dois hambúrgueres grelhados suculentos e cobertos por uma camada generosa de queijo cheddar derretido. Servido em pão brioche dourado, ele é complementado por uma maionese especial suave e rica, criando uma combinação perfeita de sabores em cada mordida.",
                             Name = "X-Cheddar-Melt",
-                            PathImage = "http://localhost:5190/images/burguer.png",
+                            PathImage = "http://localhost:5190/public/assets/burguer.png",
                             Price = 30.0
                         },
                         new
@@ -243,7 +243,7 @@ namespace burguermania_backend.Migrations
                             CategoryId = 3,
                             FullDescription = "O maior e mais ousado dos hambúrgueres! O X-Ultra apresenta três hambúrgueres grelhados e suculentos, acompanhados por bacon crocante e queijo cheddar derretido. Servido em pão brioche macio e dourado, ele é finalizado com uma camada generosa de maionese especial. Cada mordida é uma explosão de sabor, perfeita para os mais famintos.",
                             Name = "X-Ultra",
-                            PathImage = "http://localhost:5190/images/burguer.png",
+                            PathImage = "http://localhost:5190/public/assets/burguer.png",
                             Price = 35.0
                         });
                 });
