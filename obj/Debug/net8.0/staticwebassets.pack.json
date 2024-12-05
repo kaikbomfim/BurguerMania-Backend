@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/home/cimatec/Área de trabalho/RESTIC36/burguermania-backend/burguermania-backend/wwwroot/images/burguer.png",
+      "PackagePath": "staticwebassets/images/burguer.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.burguermania-backend.props",
+      "PackagePath": "build\\burguermania-backend.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.burguermania-backend.props",
+      "PackagePath": "buildMultiTargeting\\burguermania-backend.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.burguermania-backend.props",
+      "PackagePath": "buildTransitive\\burguermania-backend.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.burguermania-backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

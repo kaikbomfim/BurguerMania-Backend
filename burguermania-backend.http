@@ -1,0 +1,6 @@
+@burguermania_backend_HostAddress = http://localhost:5190
+
+GET {{burguermania_backend_HostAddress}}/burguermania_backend/
+Accept: application/json
+
+###
